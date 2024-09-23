@@ -1,3 +1,4 @@
+// Inverted fluid triangle
 class main{
     public static void main(String[] Args){
         int n = 1;
